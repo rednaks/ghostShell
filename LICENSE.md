@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Alexandre BM<s@rednaks.tn>
+Copyright (c) 2015 Alexandre BM\<s@rednaks.tn\>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
